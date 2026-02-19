@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Create design_brief.md",
+    "status": "completed",
+    "activeForm": "Creating design_brief.md"
+  },
+  {
+    "content": "Set up design system (index.css + tailwind.config.ts)",
+    "status": "completed",
+    "activeForm": "Setting up design system"
+  },
+  {
+    "content": "Create LivingApps backend",
+    "status": "completed",
+    "activeForm": "Creating LivingApps backend"
+  },
+  {
+    "content": "Generate TypeScript types and API service",
+    "status": "completed",
+    "activeForm": "Generating TypeScript types"
+  },
+  {
+    "content": "Build UI components and pages",
+    "status": "completed",
+    "activeForm": "Building UI components"
+  },
+  {
+    "content": "Wire up real API calls",
+    "status": "completed",
+    "activeForm": "Wiring up API calls"
+  },
+  {
+    "content": "Deploy to GitHub",
+    "status": "in_progress",
+    "activeForm": "Deploying to GitHub"
+  }
+]
